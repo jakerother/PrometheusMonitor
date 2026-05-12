@@ -1,2 +1,1 @@
-# PrometheusMonitor
-Professional PrometheusMonitor solution with PrometheusMonitor-optimized intelligent-automation and enterprise enterprise-grade capabilities
+.
